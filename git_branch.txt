@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+A branch is basically a copy of the repo that exists simultaneously and can be edited independently
