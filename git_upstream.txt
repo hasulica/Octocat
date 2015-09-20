@@ -1,1 +1,1 @@
-Explain what the \'upstream\' remote is usually used for, in your own words
+When forking a repo, setting the upstream remote allows the user to keep both local and remote clones of the fork up to date without having to fork it again.
