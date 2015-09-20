@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+Git clone initializes the local repo, copies the structure and folders of the remote repo and add the remote repo as an origin for the local repo.
